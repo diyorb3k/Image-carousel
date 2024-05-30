@@ -1,0 +1,37 @@
+.container {
+  max-width: 1240px;
+  /* width: 100%; */
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 0;
+  /* margin: 0; */
+}
+.carosil {
+  margin-top: 50px;
+  display: flex;
+}
+.indicators {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.show {
+  margin-top: 100px;
+  width: 800px;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.najot {
+  margin-top: 10px;
+  max-width: 800px;
+  width: 100%;
+  height: 500px;
+
+  border-radius: 10px;
+  margin-left: 20px;
+}
+.vlu {
+  border-radius: 8px;
+  margin-top: 10px;
+}
